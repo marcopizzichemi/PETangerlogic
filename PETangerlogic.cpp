@@ -4,7 +4,7 @@
 //                                                            //
 //------------------------------------------------------------//
 
-//NB new version with Short_t and ULong64_t
+//NB new version with Short_t and ULong64_t ciao
 
 // compile with 
 // g++ -o PETangerlogic PETangerlogic.cpp `root-config --cflags --glibs` -lSpectrum -lMLP -lTreePlayer -lMinuit 
